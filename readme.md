@@ -1,11 +1,15 @@
 PatientPop Assignment
 ---------------------
 This test automation framework built using Serenity BDD framework following Page Object Model and Behavior Driven Development strategy in which tests are, specified in terms of the desired behavior of the unit. This framework is using Serenity Screenplay, Cucumber, Junit, AssertJ libraries which helps to write better structured, more maintainable automated acceptance criteria, and also produces rich meaningful test reports that not only reports test results, but also what features have been tested.
-Section A.1 and Section A.2 of assignment covered in first scenario outline of "PracticeGrowthResults.feature" file. Section A.3 fail test covered in "PracticeGrowthResults.feature" file. Section A.4 is covered using runtime param "env", details to use it, is, described in Run/Execute section below. Extra tests needed as part of Section B are covered in both "PracticeGrowthResults.feature" and "ScheduleConsultation.feature" files and tagged as such.
+
+Section A.1 and Section A.2 of assignment covered in first scenario outline of "PracticeGrowthResults.feature" file. 
+Section A.3 fail test covered in "PracticeGrowthResults.feature" file. 
+Section A.4 is covered using runtime param "env", details to use it, is, described in Run/Execute section below. 
+Extra tests needed as part of Section B are covered in both "PracticeGrowthResults.feature" and "ScheduleConsultation.feature" files and tagged as such.
 
 Getting Started
 ---------------
-Framework can be accessed from git using: https://github.com/QualitestNJDev/Qualitest-BDD-Framework
+Framework can be accessed from git using: https://github.com/pavitrajain/PatientPop
 
 Prerequisites
 -------------
